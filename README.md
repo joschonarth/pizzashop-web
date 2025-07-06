@@ -7,6 +7,10 @@
   <img src="https://img.shields.io/github/languages/count/joschonarth/pizzashop-web?style=for-the-badge&color=EC003F&labelColor=1C1E26" alt="languages-count">
 </p>
 
+![dashboard](https://github.com/user-attachments/assets/911a3efb-5496-4dd6-9e13-90e49842756b)
+
+![orders](https://github.com/user-attachments/assets/97d6b7ee-b18c-4a0c-9335-9eb34cea9534)
+
 ## 📖 Visão Geral
 
 **Pizza Shop** é uma aplicação web voltada para o gerenciamento de pedidos em uma pizzaria. O projeto foi desenvolvido para praticar os principais conceitos de **React**, **requisições HTTP**, **gestão de estado**, **componentização**, **testes com Vitest** e muito mais. A aplicação conta com autenticação, dashboard administrativo com métricas, listagem de pedidos e modais com informações detalhadas.
