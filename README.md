@@ -1,4 +1,4 @@
-<h1 align="center">🍕 Pizza Shop</h1>
+<h1 align="center">🍕 pizza.shop</h1>
 
 <p align="center"><i>Painel administrativo para gerenciamento de pizzaria, desenvolvido com React, Vite e integração completa via API.</i>
   <br/><br/>
@@ -13,7 +13,7 @@
 
 ## 📖 Visão Geral
 
-**Pizza Shop** é uma aplicação web voltada para o gerenciamento de pedidos em uma pizzaria. O projeto foi desenvolvido para praticar os principais conceitos de **React**, **requisições HTTP**, **gestão de estado**, **componentização**, **testes com Vitest** e muito mais. A aplicação conta com autenticação, dashboard administrativo com métricas, listagem de pedidos e modais com informações detalhadas.
+**pizza.shop** é uma aplicação web voltada para o gerenciamento de pedidos em uma pizzaria. O projeto foi desenvolvido para praticar os principais conceitos de **React**, **requisições HTTP**, **gestão de estado**, **componentização**, **testes com Vitest** e muito mais. A aplicação conta com autenticação, dashboard administrativo com métricas, listagem de pedidos e modais com informações detalhadas.
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -78,13 +78,13 @@
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/joschonarth/pizza-shop.git
+    git clone https://github.com/joschonarth/pizzashop-web.git
     ```
 
 2. Acesse o diretório do projeto:
 
     ```bash
-    cd pizza-shop
+    cd pizzashop-web
     ```
 
 3. Instale as dependências:
@@ -129,11 +129,11 @@ A aplicação estará disponível em: [http://localhost:5174](http://localhost:5
 
 ## 🔗 Integração com a API
 
-Para o funcionamento completo da aplicação, é necessário rodar a API do Pizza Shop localmente.
+Para o funcionamento completo da aplicação, é necessário rodar a API do **pizza.shop** localmente.
 
 Você pode acessar o repositório da API no GitHub:
 
-👉 [https://github.com/joschonarth/pizza-shop-api](https://github.com/joschonarth/pizza-shop-api)
+👉 [https://github.com/joschonarth/pizzashop-api](https://github.com/joschonarth/pizzashop-api)
 
 Siga as instruções no README da API para configurá-la e iniciá-la localmente antes de rodar o frontend.
 
